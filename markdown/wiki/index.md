@@ -1,5 +1,5 @@
 
-# Welcome to the PojavLauncher Wiki!
+# Welcome to the PojavLauncher Wikil
 ____
 * Get started by [installing Pojavlauncher](./getting_started/INSTALL)!
 * Got a question? Check out our [FAQ](./faq/INSTALLATIONOFMODSRPWORLDS)!
